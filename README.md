@@ -17,9 +17,8 @@ For each game found on the scraped pages, the script collects the relevant detai
    
 2. Install dependencies:
 
-   ```shell
-  pip install -r requirements.txt
-
+   ```shell pip install -r requirements.txt
+   pip install -r requirements.txt
    
 3. Run the Script:
 
